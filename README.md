@@ -3,6 +3,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Soumitra Ghosh
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineer;Building+intelligent+systems;Turning+ideas+into+code" alt="Typing SVG" />
 </div>
 
 ## 🌐 Social Media Handles:
