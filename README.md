@@ -14,6 +14,7 @@
 - Always learning, experimenting, and improving through projects
 - Open to AI Engineer, Software Engineer, and GenAI roles
 
+---
 ## 🌐 Social Media Handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soumitra-ghosh-61878928b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitra.ghosh468@gmail.com) 
 
