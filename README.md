@@ -43,6 +43,88 @@
 🛠️ Tools & Platforms
 <p> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> </p>
 
+## 🎯 Featured Projects
+
+## 🚀 DocuLix — AI Legal Document Analysis Platform
+
+| DocuLix Dashboard | Document Analysis |
+|------------------|------------------|
+| ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224812.png) |
+
+
+### 🛠️ Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### ✨ Key Features
+- 📄 Multi-format uploads (PDF, Word, Images)
+- 🤖 AI-powered legal Q&A using NLP models
+- 🧠 Clause paraphrasing with T5-based models
+- ⚖️ Risk & sentiment analysis of contract clauses
+- 🔐 Secure OTP-based authentication
+- ⚡ Modern dashboard with Next.js & React
+- 🐳 Dockerized deployment using Docker Compose
+
+### 🎯 Impact
+**Transforms complex legal documents into clear, actionable insights—helping users identify risks and make informed decisions faster.**
+
+🔗 **Repository:** https://github.com/Soumitra1312/DocuLix
+
+## 🚀 Face Recognition Based Attendance System
+
+| Attendance Dashboard | Face Recognition |
+|----------------------|------------------|
+| ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20122509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20120825.png) |
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### ✨ Key Features
+- 📸 **Automated image capture** — captures 10 images per user via webcam  
+- 🧠 **Face recognition system** using OpenCV, dlib, and face_recognition  
+- 🗂️ **MongoDB-backed storage** for users, attendance, and schedules  
+- 👨‍🏫 **Faculty dashboard** with time slots, sections, and student lists  
+- 📊 **Attendance analytics** including history and per-class statistics  
+- ⚡ **End-to-end automation** eliminating manual attendance processes  
+
+### 🎯 Impact
+**Automates classroom attendance using face recognition, reducing manual effort and improving accuracy with real-time faculty dashboards.**
+
+🔗 **Repository:** https://github.com/Soumitra1312/Face-Recognition
+
+## 🎮 Shadow Fire — Third-Person Action Shooter
+
+| Main Menu | Gameplay |
+|-----------|----------|
+| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Main_Menu.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay1.png) |
+
+### 🛠️ Tech Stack
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
+![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=flat)
+![Game AI](https://img.shields.io/badge/Game%20AI-8A2BE2?style=flat)
+
+### ✨ Key Features
+- ⚔️ **Enemy AI with behavior trees** for chasing, flanking, and attacking players  
+- 🔫 **Realistic shooting mechanics** with aiming, firing, and hit feedback  
+- 💥 **Gun recoil & audio effects** for immersive combat experience  
+- 🏃 **Fluid player movement** including walking, sprinting, jumping, and dodging  
+- 🧠 **Responsive control system** tuned for fast-paced third-person gameplay  
+- 🎮 **Action-focused combat loop** rewarding movement and situational awareness  
+
+### 🎯 Impact
+**Delivers a fast-paced, immersive third-person shooter experience with intelligent enemy AI and realistic combat mechanics built from scratch in Unreal Engine.**
+
+🔗 **Repository:** https://github.com/Soumitra1312/Shadow-Fire
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Soumitra1312&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)
