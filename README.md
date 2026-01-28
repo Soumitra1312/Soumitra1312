@@ -6,6 +6,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineer;Building+intelligent+systems;Turning+ideas+into+code" alt="Typing SVG" />
 </div>
 
+---
+### 👨‍💻 About Me
+- AI & Software Engineer with a strong foundation in Python and ML
+- Interested in GenAI, LLMs, and intelligent system design
+- Building scalable backends and real-world AI applications
+- Always learning, experimenting, and improving through projects
+- Open to AI Engineer, Software Engineer, and GenAI roles
+
 ## 🌐 Social Media Handles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soumitra-ghosh-61878928b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitra.ghosh468@gmail.com) 
 
