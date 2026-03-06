@@ -62,12 +62,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### ✨ Key Features
--📄 Multi-format uploads (PDF, Word, Images)
+- 📄 Multi-format uploads (PDF, Word, Images)
 - 🤖 AI-powered legal Q&A using NLP models
 - 🧠 Clause paraphrasing with T5-based models
 - ⚖️ Risk & sentiment analysis of contract clauses
 - 🔐 Secure OTP-based authentication
-- ⏳ Configurable session timeout (10 min default) with extendable login sessions for enhanced security
+- ⏳ Configurable session timer with automatic logout (10-minute default) for secure access control
+- 📜 Session history tracking to review previous queries and responses
+- 📥 One-click download of complete session reports as PDF
+- 🛡️ Your document is 100% secure — no user data or uploaded documents are stored
 - ⚡ Modern dashboard with Next.js & React
 - 🐳 Dockerized deployment using Docker Compose
 
@@ -90,17 +93,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ### ✨ Key Features
-- 📄 Multi-format uploads (PDF, Word, Images)
-- 🤖 AI-powered legal Q&A using NLP models
-- 🧠 Clause paraphrasing with T5-based models
-- ⚖️ Risk & sentiment analysis of contract clauses
-- 🔐 Secure OTP-based authentication
-- ⏳ Configurable session timer with automatic logout (10-minute default) for secure access control
-- 📜 Session history tracking to review previous queries and responses
-- 📥 One-click download of complete session reports as PDF
-- 🛡️ Your document is 100% secure — no user data or uploaded documents are stored
-- ⚡ Modern dashboard with Next.js & React
-- 🐳 Dockerized deployment using Docker Compose
+- 📸 **Automated image capture** — captures 10 images per user via webcam  
+- 🧠 **Face recognition system** using OpenCV, dlib, and face_recognition  
+- 🗂️ **MongoDB-backed storage** for users, attendance, and schedules  
+- 👨‍🏫 **Faculty dashboard** with time slots, sections, and student lists  
+- 📊 **Attendance analytics** including history and per-class statistics  
+- ⚡ **End-to-end automation** eliminating manual attendance processes
 
 ### 🎯 Impact
 **Automates classroom attendance using face recognition, reducing manual effort and improving accuracy with real-time faculty dashboards.**
