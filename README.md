@@ -62,11 +62,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### ✨ Key Features
-- 📄 Multi-format uploads (PDF, Word, Images)
+-📄 Multi-format uploads (PDF, Word, Images)
 - 🤖 AI-powered legal Q&A using NLP models
 - 🧠 Clause paraphrasing with T5-based models
 - ⚖️ Risk & sentiment analysis of contract clauses
 - 🔐 Secure OTP-based authentication
+- ⏳ Configurable session timeout (10 min default) with extendable login sessions for enhanced security
 - ⚡ Modern dashboard with Next.js & React
 - 🐳 Dockerized deployment using Docker Compose
 
