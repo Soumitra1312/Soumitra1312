@@ -47,9 +47,8 @@
 
 ## 🚀 DocuLix — AI Legal Document Analysis Platform
 
-| DocuLix Dashboard | Document Analysis |
-|------------------|------------------|
 | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203115.png) |
+|---|---|
 | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203219.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203251.png) |
 
 ### 🛠️ Tech Stack
@@ -81,8 +80,8 @@
 
 ## 🚀 Face Recognition Based Attendance System
 
-| Attendance Dashboard | Face Recognition |
-|----------------------|------------------|
+| ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20113509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20121136.png) |
+|---|---|
 | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20122509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20120825.png) |
 
 ### 🛠️ Tech Stack
@@ -107,9 +106,9 @@
 
 ## 🎮 Shadow Fire — Third-Person Action Shooter
 
-| Main Menu | Gameplay |
-|-----------|----------|
-| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Main_Menu.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay1.png) |
+| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Main_Menu.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Instructions.png) |
+|---|---|
+| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay1.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay2.png) |
 
 ### 🛠️ Tech Stack
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
