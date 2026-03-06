@@ -49,8 +49,8 @@
 
 | DocuLix Dashboard | Document Analysis |
 |------------------|------------------|
-| ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224812.png) |
-
+| ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203115.png) |
+| ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203219.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203251.png) |
 
 ### 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
