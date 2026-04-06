@@ -8,11 +8,25 @@
 
 ---
 ### 👨‍💻 About Me
-- AI & Software Engineer with a strong foundation in Python and ML
-- Interested in GenAI, LLMs, and intelligent system design
-- Building scalable backends and real-world AI applications
-- Always learning, experimenting, and improving through projects
-- Open to AI Engineer, Software Engineer, and GenAI roles
+I’m an Applied AI Engineer focused on LLM systems and backend engineering, building production-ready AI applications with real-world impact.
+
+I work on LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and real-time ML systems, while also designing scalable backend services, REST APIs, and microservices. I have a strong foundation in data structures, algorithms, object-oriented programming, and system design, which I apply to build efficient and reliable systems.
+
+My experience includes building high-accuracy ML models (up to 96%) and scalable systems processing 1K+ documents per day, with a focus on performance, clean architecture, and deployment. I enjoy working across the stack, from model development to backend engineering and cloud deployment.
+
+<ul>
+  <li>🔧 Building: LLM apps, RAG pipelines, backend microservices</li>
+
+  <li>⚙️ Tech: Python, FastAPI, PyTorch, Transformers, Docker, Cloud</li>
+
+  <li>📈 Focus: Production-ready AI, scalable systems, real-world impact</li>
+
+  <li>🌱 Exploring: Advanced LLM systems, GenAI architectures, system design</li>
+</ul>
+
+💡 Always learning, experimenting, and improving through projects.
+
+📬 Open to AI Engineer and Software Engineer roles.
 
 ---
 ## 🌐 Social Media Handles:
