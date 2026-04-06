@@ -122,6 +122,11 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 
 ## 🚀 DocuLix — AI Legal Document Analysis Platform
 
+📊 **Impact:**  
+- Processes **1K+ documents/day**  
+- Achieves **92% clause extraction accuracy**  
+- Reduces legal review time by **60%**
+
 | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203115.png) |
 |---|---|
 | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203219.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203251.png) |
@@ -148,12 +153,13 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 - ⚡ Modern dashboard with Next.js & React
 - 🐳 Dockerized deployment using Docker Compose
 
-### 🎯 Impact
-**Transforms complex legal documents into clear, actionable insights—helping users identify risks and make informed decisions faster.**
-
 🔗 **Repository:** https://github.com/Soumitra1312/DocuLix
 
 ## 🚀 Face Recognition Based Attendance System
+
+📊 **Impact:**  
+- Achieves **94% recognition accuracy**  
+- Automates attendance, reducing **manual effort and errors**
 
 | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20113509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20121136.png) |
 |---|---|
@@ -174,12 +180,12 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 - 📊 **Attendance analytics** including history and per-class statistics  
 - ⚡ **End-to-end automation** eliminating manual attendance processes
 
-### 🎯 Impact
-**Automates classroom attendance using face recognition, reducing manual effort and improving accuracy with real-time faculty dashboards.**
-
 🔗 **Repository:** https://github.com/Soumitra1312/Face-Recognition
 
 ## 🎮 Shadow Fire — Third-Person Action Shooter
+
+📊 **Impact:**  
+- Delivers **smooth real-time gameplay with optimized rendering and AI behavior**  
 
 | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Main_Menu.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Instructions.png) |
 |---|---|
@@ -197,9 +203,6 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 - 🏃 **Fluid player movement** including walking, sprinting, jumping, and dodging  
 - 🧠 **Responsive control system** tuned for fast-paced third-person gameplay  
 - 🎮 **Action-focused combat loop** rewarding movement and situational awareness  
-
-### 🎯 Impact
-**Delivers a fast-paced, immersive third-person shooter experience with intelligent enemy AI and realistic combat mechanics built from scratch in Unreal Engine.**
 
 🔗 **Repository:** https://github.com/Soumitra1312/Shadow-Fire
 
