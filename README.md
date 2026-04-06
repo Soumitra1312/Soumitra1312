@@ -132,7 +132,7 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=Soumitra1312&theme=highcontrast&hide_border=false)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumitra1312&theme=github_dark)
-![Snake animation](https://github.com/Soumitra1312/Soumitra1312/blob/output/github-contribution-grid-snake.svg)
+![Snake dark](https://raw.githubusercontent.com/Soumitra1312/Soumitra1312/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumitra1312&icon=0&color=0)](https://visitcount.itsvg.in)
