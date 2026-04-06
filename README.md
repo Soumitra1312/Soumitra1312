@@ -3,7 +3,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Soumitra Ghosh
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineer;Building+intelligent+systems;Turning+ideas+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Building+LLM+%26+RAG-powered+systems;Turning+ideas+into+production-ready+code;Scalable+APIs+%E2%80%A2+Microservices+%E2%80%A2+Cloud+Deployment" alt="Typing SVG" />
 </div>
 
 ---
@@ -15,13 +15,13 @@ I work on LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelin
 My experience includes building high-accuracy ML models (up to 96%) and scalable systems processing 1K+ documents per day, with a focus on performance, clean architecture, and deployment. I enjoy working across the stack, from model development to backend engineering and cloud deployment.
 
 <ul>
-  <li>🔧 Building: LLM apps, RAG pipelines, backend microservices</li>
+<li>🔧 Building: LLM apps, RAG pipelines, backend microservices</li>
 
-  <li>⚙️ Tech: Python, FastAPI, PyTorch, Transformers, Docker, Cloud</li>
+<li>⚙️ Tech: Python, FastAPI, PyTorch, Transformers, Docker, Cloud</li>
 
-  <li>📈 Focus: Production-ready AI, scalable systems, real-world impact</li>
+<li>📈 Focus: Production-ready AI, scalable systems, real-world impact</li>
 
-  <li>🌱 Exploring: Advanced LLM systems, GenAI architectures, system design</li>
+<li>🌱 Exploring: Advanced LLM systems, GenAI architectures, system design</li>
 </ul>
 
 💡 Always learning, experimenting, and improving through projects.
