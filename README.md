@@ -158,7 +158,7 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 ## 🚀 Face Recognition Based Attendance System
 
 📊 **Impact:**  
-- Achieves **94% recognition accuracy**  
+- Achieves **92% recognition accuracy**  
 - Automates attendance, reducing **manual effort and errors**
 
 | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20113509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20121136.png) |
