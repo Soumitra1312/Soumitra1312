@@ -4,7 +4,19 @@
   
 # 👋 Hi, I'm Soumitra Ghosh
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Building+LLM+%26+RAG-powered+systems;Turning+ideas+into+production-ready+code;Scalable+APIs+%E2%80%A2+Microservices+%E2%80%A2+Cloud+Deployment" alt="Typing SVG" />
+
 </div>
+
+---
+
+🚀 Open to AI Engineer / Backend roles  
+📬 Let’s connect on LinkedIn  
+
+### 🧠 Core Expertise
+- LLM Systems (RAG, Prompt Engineering, Vector DBs)
+- Backend Engineering (FastAPI, REST APIs, Microservices)
+- Machine Learning (NLP, Computer Vision)
+- System Design & Scalable Architectures
 
 ---
 ### 👨‍💻 About Me
@@ -30,7 +42,8 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 
 ---
 ## 🌐 Social Media Handles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soumitra-ghosh-61878928b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitra.ghosh468@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumitra-ghosh-61878928b) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumitra.ghosh468@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -206,10 +219,13 @@ My experience includes building high-accuracy ML models (up to 96%) and scalable
 
 🔗 **Repository:** https://github.com/Soumitra1312/Shadow-Fire
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com/?user=Soumitra1312&theme=highcontrast&hide_border=false)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumitra1312&theme=github_dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Soumitra1312/github-stats/master/generated/overview.svg" />
+  <img src="https://raw.githubusercontent.com/Soumitra1312/github-stats/master/generated/languages.svg" />
+</p>
+
 ![Snake dark](https://raw.githubusercontent.com/Soumitra1312/Soumitra1312/output/github-contribution-grid-snake-dark.svg)
 
 ---
