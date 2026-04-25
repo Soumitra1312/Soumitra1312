@@ -3,13 +3,13 @@
 <div align="center">
   
 # 👋 Hi, I'm Soumitra Ghosh
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;Building+LLM+%26+RAG-powered+systems;Turning+ideas+into+production-ready+code;Scalable+APIs+%E2%80%A2+Microservices+%E2%80%A2+Cloud+Deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Engineering+Intern;Building+LLM+%26+RAG-powered+systems;Turning+ideas+into+production-ready+code;Scalable+APIs+%E2%80%A2+Microservices+%E2%80%A2+Cloud+Deployment" alt="Typing SVG" />
 
 </div>
 
 ---
 
-🚀 Open to AI Engineer / Backend roles  
+🚀 Open to Software Engineering Intern roles  
 📬 Let’s connect on LinkedIn  
 
 ### 🧠 Core Expertise
@@ -20,25 +20,17 @@
 
 ---
 ### 👨‍💻 About Me
-I’m an Applied AI Engineer focused on LLM systems and backend engineering, building production-ready AI applications with real-world impact.
-
-I work on LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and real-time ML systems, while also designing scalable backend services, REST APIs, and microservices. I have a strong foundation in data structures, algorithms, object-oriented programming, and system design, which I apply to build efficient and reliable systems.
-
-My experience includes building high-accuracy ML models (up to 96%) and scalable systems processing 1K+ documents per day, with a focus on performance, clean architecture, and deployment. I enjoy working across the stack, from model development to backend engineering and cloud deployment.
-
-<ul>
-<li>🔧 Building: LLM apps, RAG pipelines, backend microservices</li>
-
-<li>⚙️ Tech: Python, FastAPI, PyTorch, Transformers, Docker, Cloud</li>
-
-<li>📈 Focus: Production-ready AI, scalable systems, real-world impact</li>
-
-<li>🌱 Exploring: Advanced LLM systems, GenAI architectures, system design</li>
-</ul>
-
-💡 Always learning, experimenting, and improving through projects.
-
-📬 Open to AI Engineer and Software Engineer roles.
+Building scalable backend systems and production-ready AI applications that deliver real-world impact.
+ 
+I’m a Computer Science graduate (2026) and aspiring Software Engineering Intern, with a strong focus on backend systems, Data Structures and Algorithms (DSA), system design, and applied AI, including Large Language Models (LLMs) and generative AI. I work at the intersection of software engineering and machine learning, with an emphasis on building reliable, production-ready systems rather than just experimental models.
+ 
+During my internships at NIT Rourkela and Infosys Springboard, I developed and deployed real-world systems across backend and AI domains. At NIT Rourkela, I built a face recognition model (96% accuracy) using PyTorch and StyleGAN-based augmentation, optimized for real-time inference and robustness. At Infosys Springboard, I developed a sign language recognition system (95% accuracy). My focus across these projects has been on modular design, evaluation pipelines, and system reliability.
+ 
+My work also includes research and applied AI systems. I’ve published research in deepfake detection using a CNN–GNN approach achieving 92.3% cross-dataset accuracy, and built an edge AI face authentication system on Raspberry Pi running at 15 FPS with an AUC of 0.96 without relying on cloud infrastructure. In parallel, I’ve developed LLM-powered applications such as a RAG-based legal document analysis system that processes over 1K documents per day and reduces manual review time by 60%.
+ 
+Beyond model development, I’m particularly interested in system design and backend engineering challenges. I have experience working with AWS, GCP, and Azure, building Dockerized microservices, and collaborating in Agile environments to take systems from prototype to production.
+ 
+I’m currently seeking opportunities as a Software Engineering Intern (Backend & AI Focus) where I can contribute to building scalable backend systems and intelligent AI-powered products, while continuing to grow in system design, LLM applications, and applied AI.
 
 ---
 ## 🌐 Social Media Handles:
