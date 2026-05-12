@@ -9,28 +9,42 @@
 
 ---
 
-🚀 Open to Software Engineering Intern roles  
-📬 Let’s connect on LinkedIn  
+🚀 Open to Software Engineering Internship Opportunities  
+📬 Connect with me on LinkedIn  
 
 ### 🧠 Core Expertise
-- LLM Systems (RAG, Prompt Engineering, Vector DBs)
+- LLM Systems (RAG, Vector Databases, Prompt Engineering)
 - Backend Engineering (FastAPI, REST APIs, Microservices)
 - Machine Learning (NLP, Computer Vision)
 - System Design & Scalable Architectures
+- Cloud & DevOps (Docker, AWS, GCP)
 
 ---
 ### 👨‍💻 About Me
 Building scalable backend systems and production-ready AI applications that deliver real-world impact.
- 
-I’m a Computer Science graduate (2026) and aspiring Software Engineering Intern, with a strong focus on backend systems, Data Structures and Algorithms (DSA), system design, and applied AI, including Large Language Models (LLMs) and generative AI. I work at the intersection of software engineering and machine learning, with an emphasis on building reliable, production-ready systems rather than just experimental models.
- 
-During my internships at NIT Rourkela and Infosys Springboard, I developed and deployed real-world systems across backend and AI domains. At NIT Rourkela, I built a face recognition model (96% accuracy) using PyTorch and StyleGAN-based augmentation, optimized for real-time inference and robustness. At Infosys Springboard, I developed a sign language recognition system (95% accuracy). My focus across these projects has been on modular design, evaluation pipelines, and system reliability.
- 
-My work also includes research and applied AI systems. I’ve published research in deepfake detection using a CNN–GNN approach achieving 92.3% cross-dataset accuracy, and built an edge AI face authentication system on Raspberry Pi running at 15 FPS with an AUC of 0.96 without relying on cloud infrastructure. In parallel, I’ve developed LLM-powered applications such as a RAG-based legal document analysis system that processes over 1K documents per day and reduces manual review time by 60%.
- 
-Beyond model development, I’m particularly interested in system design and backend engineering challenges. I have experience working with AWS, GCP, and Azure, building Dockerized microservices, and collaborating in Agile environments to take systems from prototype to production.
- 
-I’m currently seeking opportunities as a Software Engineering Intern (Backend & AI Focus) where I can contribute to building scalable backend systems and intelligent AI-powered products, while continuing to grow in system design, LLM applications, and applied AI.
+
+I’m a Computer Science undergraduate (2026) focused on backend engineering, system design, and applied AI/LLM systems. My work combines software engineering with machine learning to build reliable, scalable, and production-ready applications.
+
+During internships at **NIT Rourkela** and **Infosys Springboard**, I developed and deployed real-world AI systems including:
+- Face recognition pipeline with **96% accuracy** using PyTorch and StyleGAN-based augmentation
+- Real-time sign language recognition system achieving **95% accuracy**
+- Optimized inference and evaluation pipelines for scalable deployment
+
+My work also includes research in edge AI and secure computer vision systems:
+- 📄 Published IEEE research on deepfake-aware edge AI authentication
+- Built a unified Raspberry Pi-based pipeline integrating **YOLOv5** for face detection, **FaceNet** for recognition, and **EfficientNet-B4** for deepfake detection
+- Evaluated on benchmarks including **WIDER Face**, **LFW**, **CelebA**, and **FaceForensics++**
+- Achieved real-time inference at **~15 FPS** with **0.96 AUC** for deepfake detection under challenging real-world conditions
+- Optimized for secure, low-latency identity verification in edge AI, IoT, and surveillance environments
+
+I also build LLM-powered systems such as:
+- ⚖️ RAG-based legal document analysis platform processing **1K+ documents/day**
+- Reduced manual review time by **60%** using retrieval and transformer-based pipelines
+
+Tech interests:
+`Backend Systems` • `Distributed Systems` • `LLMs` • `RAG` • `System Design` • `Computer Vision` • `Cloud & DevOps`
+
+Currently seeking **Software Engineering Internship opportunities (Backend & AI Focus)** to build scalable systems and intelligent AI-powered products.
 
 ---
 ## 🌐 Social Media Handles:
@@ -219,11 +233,11 @@ I’m currently seeking opportunities as a Software Engineering Intern (Backend 
 
 ### 🧠 Deepfake-Aware Face Authentication for Edge Devices Using a Unified Raspberry Pi Pipeline
 - Published in **IEEE AIEI 2026**
-- Developed a lightweight edge AI pipeline for secure face authentication with integrated deepfake detection
-- Achieved high-accuracy real-time inference on Raspberry Pi with optimized low-latency processing
-- Leveraged computer vision and deep learning techniques for robust authentication performance
-- Designed for efficient deployment on resource-constrained edge devices with reduced computational overhead
-- Focused on scalable and secure edge AI systems for real-world authentication scenarios
+- Built a complete edge AI pipeline integrating **YOLOv5**, **FaceNet**, and **EfficientNet-B4**
+- Achieved real-time face detection at **~15 FPS** on Raspberry Pi
+- Reached **0.96 AUC** for deepfake detection using FaceForensics++ and real-world camera inputs
+- Optimized for secure and low-latency identity verification on resource-constrained edge devices
+- Evaluated across challenging real-world conditions including masks, sunglasses, occlusion, and varying lighting conditions
 
 📄 Read the Full Paper Here : [Link](https://ieeexplore.ieee.org/document/11496983)
 
