@@ -211,6 +211,22 @@ I’m currently seeking opportunities as a Software Engineering Intern (Backend 
 
 🔗 **Repository:** https://github.com/Soumitra1312/Shadow-Fire
 
+### 📚 Research & Publications
+
+| Publication | Venue | Research Area |
+|---|---|---|
+| **Deepfake-Aware Face Authentication for Edge Devices Using a Unified Raspberry Pi Pipeline** | IEEE AIEI 2026 | Edge AI, Computer Vision, Deepfake Detection |
+
+### 🧠 Deepfake-Aware Face Authentication for Edge Devices Using a Unified Raspberry Pi Pipeline
+- Published in **IEEE AIEI 2026**
+- Developed a lightweight edge AI pipeline for secure face authentication with integrated deepfake detection
+- Achieved high-accuracy real-time inference on Raspberry Pi with optimized low-latency processing
+- Leveraged computer vision and deep learning techniques for robust authentication performance
+- Designed for efficient deployment on resource-constrained edge devices with reduced computational overhead
+- Focused on scalable and secure edge AI systems for real-world authentication scenarios
+
+📄 Read the Full Paper Here : [Link](https://ieeexplore.ieee.org/document/11496983)
+
 ### 📊 GitHub Stats
 
 <p align="center">
