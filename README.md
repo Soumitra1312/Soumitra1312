@@ -10,6 +10,7 @@
 ---
 
 🚀 Open to Software Engineering Internship Opportunities  
+🌐 [Portfolio](https://portfolio-new-orpin-nine.vercel.app/)  
 📬 Connect with me on LinkedIn  
 
 ### 🧠 Core Expertise
@@ -20,31 +21,22 @@
 - Cloud & DevOps (Docker, AWS, GCP)
 
 ---
-### 👨‍💻 About Me
-Building scalable backend systems and production-ready AI applications that deliver real-world impact.
+## 👨‍💻 About Me
 
-I’m a Computer Science undergraduate (2026) focused on backend engineering, system design, and applied AI/LLM systems. My work combines software engineering with machine learning to build reliable, scalable, and production-ready applications.
+Building scalable backend systems and production-ready AI applications that solve real-world problems.
 
-During internships at **NIT Rourkela** and **Infosys Springboard**, I developed and deployed real-world AI systems including:
-- Face recognition pipeline with **96% accuracy** using PyTorch and StyleGAN-based augmentation
-- Real-time sign language recognition system achieving **95% accuracy**
-- Optimized inference and evaluation pipelines for scalable deployment
+I'm a Computer Science undergraduate (2026) passionate about backend engineering, distributed systems, and AI/LLM applications. My work combines software engineering with machine learning to build reliable, scalable, and production-ready products.
 
-My work also includes research in edge AI and secure computer vision systems:
-- 📄 Published IEEE research on deepfake-aware edge AI authentication
-- 📄 Published Atlantis-Press research on physics-informed deepfake detection using landmark geometry and anatomy-aware hybrid classification
-- Built a unified Raspberry Pi-based pipeline integrating **YOLOv5** for face detection, **FaceNet** for recognition, and **EfficientNet-B4** for deepfake detection
-- Evaluated on benchmarks including **WIDER Face**, **LFW**, **CelebA**, and **FaceForensics++**
-- Achieved real-time inference at **~15 FPS** with **0.96 AUC** for deepfake detection under challenging real-world conditions
-- Optimized for secure, low-latency identity verification in edge AI, IoT, and surveillance environments
+During internships at **NIT Rourkela** and **Infosys Springboard**, I developed AI systems including a **96% accurate face verification pipeline** and a **95% accurate real-time sign language recognition system**, while optimizing inference and deployment workflows.
 
-I also build LLM-powered systems such as:
-- RAG-based legal document analysis platform processing **1K+ documents/day**
-- Reduced manual review time by **60%** using retrieval and transformer-based pipelines
-- Distributed async prompt processing system handling parallel LLM inference with semantic caching and crash recovery
+My research focuses on **edge AI** and **computer vision**, resulting in publications at **IEEE AIEI 2026** and **Atlantis-Press 2026**, covering deepfake detection, secure face authentication, and anatomy-aware computer vision models.
 
-Tech interests:
-`Backend Systems` • `Distributed Systems` • `LLMs` • `RAG` • `System Design` • `Computer Vision` • `Cloud & DevOps`
+I also build production-ready LLM applications, including:
+- 📄 **DocuLix** — RAG-based legal document analysis platform achieving 94% clause extraction accuracy
+- ⚡ **PromptForge** — Distributed async prompt processing with semantic caching and crash recovery
+- 💬 **SmartChat App** — Offline-first React Native messenger with smart caching and automatic synchronization
+
+**Tech Interests:** `Backend Systems` • `Distributed Systems` • `LLMs` • `RAG` • `System Design` • `Computer Vision` • `Cloud & DevOps`
 
 Currently seeking **Software Engineering Internship opportunities (Backend & AI Focus)** to build scalable systems and intelligent AI-powered products.
 
@@ -185,7 +177,6 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202503.png) | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202537.png) |
 |---|---|
-| ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202903.png) | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20203015.png) |
 
 ### 🛠️ Tech Stack
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -205,15 +196,44 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 🔗 **Repository:** https://github.com/soumitra1312/PromptForge
 
+## 💬 SmartChat App — WhatsApp-Inspired Messenger
+
+📊 **Impact:**  
+- Enables **100% offline messaging** through smart caching and automatic synchronization  
+- Delivers a seamless chat experience with a **persistent floating chat widget** accessible from any screen  
+- Improves reliability using **TTL-based caching**, offline message queuing, and automatic delivery on reconnection
+
+| ![](https://github.com/Soumitra1312/Smart-Chat-App/blob/main/Screenshots/Screenshot%202026-04-19%20211634.png) | ![](https://github.com/Soumitra1312/Smart-Chat-App/blob/main/Screenshots/Screenshot%202026-04-19%20211659.png) |
+|---|---|
+
+### 🛠️ Tech Stack
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-React_Native-blue?style=flat)
+![React Navigation](https://img.shields.io/badge/React_Navigation-CA4245?style=flat)
+
+### ✨ Key Features
+
+- 💬 **Offline-first messaging** with **AsyncStorage** caching, versioned entries, and **7-day TTL** expiration
+- 📦 **Offline message queue** that stores outgoing messages locally and automatically synchronizes them when the device reconnects
+- 🪟 **Persistent floating chat widget** that shares state with the main chat window, enabling replies from any screen without losing conversation history
+- 🔍 **Modern chat interface** with search, unread badges, typing indicators, read receipts, and online status
+- 📞 **Voice & video call support** featuring call history, full-screen call overlay, mute, speaker, and timer controls
+- 🎨 **Highly customizable UI** with multiple chat wallpapers, profile management, backend-driven theme configuration, and animated loading components
+- ⚡ **Responsive offline-first architecture** delivering a seamless messaging experience even with intermittent network connectivity
+
+🔗 **Repository:** https://github.com/Soumitra1312/Smart-Chat-App
+
 ## 🚀 Face Recognition Based Attendance System
 
 📊 **Impact:**  
-- Achieves **92% recognition accuracy**  
+- Achieves **98% recognition accuracy**  
 - Automates attendance, reducing **manual effort and errors**
 
-| ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20113509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20121136.png) |
-|---|---|
 | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20122509.png) | ![](https://github.com/Soumitra1312/Face-Recognition/blob/main/Screenshots/Screenshot%202026-01-27%20120825.png) |
+|---|---|
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
