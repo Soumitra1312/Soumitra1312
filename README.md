@@ -32,14 +32,16 @@ During internships at **NIT Rourkela** and **Infosys Springboard**, I developed 
 
 My work also includes research in edge AI and secure computer vision systems:
 - 📄 Published IEEE research on deepfake-aware edge AI authentication
+- 📄 Published Atlantis-Press research on physics-informed deepfake detection using landmark geometry and anatomy-aware hybrid classification
 - Built a unified Raspberry Pi-based pipeline integrating **YOLOv5** for face detection, **FaceNet** for recognition, and **EfficientNet-B4** for deepfake detection
 - Evaluated on benchmarks including **WIDER Face**, **LFW**, **CelebA**, and **FaceForensics++**
 - Achieved real-time inference at **~15 FPS** with **0.96 AUC** for deepfake detection under challenging real-world conditions
 - Optimized for secure, low-latency identity verification in edge AI, IoT, and surveillance environments
 
 I also build LLM-powered systems such as:
-- ⚖️ RAG-based legal document analysis platform processing **1K+ documents/day**
+- RAG-based legal document analysis platform processing **1K+ documents/day**
 - Reduced manual review time by **60%** using retrieval and transformer-based pipelines
+- Distributed async prompt processing system handling parallel LLM inference with semantic caching and crash recovery
 
 Tech interests:
 `Backend Systems` • `Distributed Systems` • `LLMs` • `RAG` • `System Design` • `Computer Vision` • `Cloud & DevOps`
@@ -174,6 +176,35 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 🔗 **Repository:** https://github.com/Soumitra1312/DocuLix
 
+## ⚡ PromptForge — Distributed Async Prompt Processing System
+
+📊 **Impact:**  
+- Processes prompts across **4 parallel FastAPI workers** with **zero duplicate job execution**  
+- Cuts redundant LLM API calls via semantic caching at **≥0.92 cosine similarity**  
+- Runs fully on **MongoDB — no Redis required**, with automatic crash recovery for stuck jobs
+
+| ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202503.png) | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202537.png) |
+|---|---|
+| ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202903.png) | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20203015.png) |
+
+### 🛠️ Tech Stack
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/AsyncIO-3776AB?style=flat)
+
+### ✨ Key Features
+- 🔀 **Async parallel processing** — worker pool handles up to 5 concurrent jobs per worker via `asyncio.Semaphore`
+- 🗄️ **Durable MongoDB job queue** with atomic `find_one_and_update` claims, so no two workers ever grab the same job
+- 🧠 **Semantic caching** using `all-MiniLM-L6-v2` embeddings + cosine similarity, skipping redundant LLM calls on near-duplicate prompts
+- 🚦 **Token bucket rate limiting** (300 req/min) — global at the worker, session-based at the API layer, with graceful backoff instead of dropped requests
+- ♻️ **Crash recovery** — automatically detects and requeues jobs stuck in "processing" for over 5 minutes, retried up to 2 times before failing
+- 📶 **Priority queue** — high-priority jobs bypass the cache and jump straight to the front of the line
+- 🔌 **REST API** for submitting, polling, retrieving, and cancelling prompt jobs, plus a system health endpoint
+
+🔗 **Repository:** https://github.com/soumitra1312/PromptForge
+
 ## 🚀 Face Recognition Based Attendance System
 
 📊 **Impact:**  
@@ -201,35 +232,12 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 🔗 **Repository:** https://github.com/Soumitra1312/Face-Recognition
 
-## 🎮 Shadow Fire — Third-Person Action Shooter
-
-📊 **Impact:**  
-- Delivers **smooth real-time gameplay with optimized rendering and AI behavior**  
-
-| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Main_Menu.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Instructions.png) |
-|---|---|
-| ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay1.png) | ![](https://raw.githubusercontent.com/Soumitra1312/Shadow-Fire/main/Screenshots/Gameplay2.png) |
-
-### 🛠️ Tech Stack
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
-![Blueprints](https://img.shields.io/badge/Blueprints-1E90FF?style=flat)
-![Game AI](https://img.shields.io/badge/Game%20AI-8A2BE2?style=flat)
-
-### ✨ Key Features
-- ⚔️ **Enemy AI with behavior trees** for chasing, flanking, and attacking players  
-- 🔫 **Realistic shooting mechanics** with aiming, firing, and hit feedback  
-- 💥 **Gun recoil & audio effects** for immersive combat experience  
-- 🏃 **Fluid player movement** including walking, sprinting, jumping, and dodging  
-- 🧠 **Responsive control system** tuned for fast-paced third-person gameplay  
-- 🎮 **Action-focused combat loop** rewarding movement and situational awareness  
-
-🔗 **Repository:** https://github.com/Soumitra1312/Shadow-Fire
-
 ### 📚 Research & Publications
 
 | Publication | Venue | Research Area |
 |---|---|---|
 | **Deepfake-Aware Face Authentication for Edge Devices Using a Unified Raspberry Pi Pipeline** | IEEE AIEI 2026 | Edge AI, Computer Vision, Deepfake Detection |
+| **Physics-Informed Deepfake Detection in Facial Images Using Landmark Geometry and Anatomy-Aware Hybrid Classification** | RAIST 2026, Atlantis Press | Deepfake Detection, Computer Vision |
 
 ### 🧠 Deepfake-Aware Face Authentication for Edge Devices Using a Unified Raspberry Pi Pipeline
 - Published in **IEEE AIEI 2026**
@@ -240,6 +248,16 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 - Evaluated across challenging real-world conditions including masks, sunglasses, occlusion, and varying lighting conditions
 
 📄 Read the Full Paper Here : [Link](https://ieeexplore.ieee.org/document/11496983)
+
+### 🧠 Physics-Informed Deepfake Detection in Facial Images Using Landmark Geometry and Anatomy-Aware Hybrid Classification
+- Published in **RAIST 2026**, Atlantis Press
+- Proposed a physics-informed deepfake detector grounded in **anatomical invariants** of real faces — bilateral symmetry, smooth contours, and characteristic proportions — that synthesis artifacts tend to break
+- Built a **multi-stream CNN-GNN module** to extract robust facial landmarks, paired with **five anatomy-aware descriptor families** in a hybrid geometry-appearance classifier
+- Achieved **95.8% accuracy** on FaceForensics++ and **92.3% mean cross-dataset accuracy** across FF++→FFHQ, FF++→CelebA, and cross-manipulation protocols
+- Outperformed a CNN baseline by **11.2 percentage points** and cut cross-dataset variance by **~78%**, lowering accuracy standard deviation to **2.1%** versus **9.4%** for CNN baselines
+- Reduced facial landmark symmetry error by **18.7%** over MediaPipe through physics-based geometric correction
+
+📄 Read the Full Paper Here : [Link](https://doi.org/10.2991/978-94-6239-707-1_21)
 
 ### 📊 GitHub Stats
 
