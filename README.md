@@ -135,10 +135,10 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 ## 🚀 DocuLix — AI Legal Document Analysis Platform
 
-📊 **Impact:**  
-- Processes **1K+ documents/day**  
-- Achieves **92% clause extraction accuracy**  
-- Reduces legal review time by **60%**
+📊 **Impact:**
+- Delivers **94% clause extraction accuracy** using an agentic AI workflow built with **OpenAI API**, **LangChain**, **LangGraph**, and **RAG**
+- Automates legal document ingestion, summarization, clause extraction, and semantic retrieval
+- Provides a scalable, production-ready architecture with **REST APIs**, **MongoDB**, and modular microservices
 
 | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202025-09-18%20224620.png) | ![](https://github.com/Soumitra1312/DocuLix/blob/main/web_app/public/assets/img/Screenshot%202026-03-06%20203115.png) |
 |---|---|
@@ -172,7 +172,7 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 📊 **Impact:**  
 - Processes prompts across **4 parallel FastAPI workers** with **zero duplicate job execution**  
-- Cuts redundant LLM API calls via semantic caching at **≥0.92 cosine similarity**  
+- Reduces redundant LLM API calls via semantic caching at **≥0.92 cosine similarity**  
 - Runs fully on **MongoDB — no Redis required**, with automatic crash recovery for stuck jobs
 
 | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202503.png) | ![](https://github.com/Soumitra1312/PromptForge/blob/main/Screenshots/Screenshot%202026-04-20%20202537.png) |
@@ -271,11 +271,10 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 
 ### 🧠 Physics-Informed Deepfake Detection in Facial Images Using Landmark Geometry and Anatomy-Aware Hybrid Classification
 - Published in **RAIST 2026**, Atlantis Press
-- Proposed a physics-informed deepfake detector grounded in **anatomical invariants** of real faces — bilateral symmetry, smooth contours, and characteristic proportions — that synthesis artifacts tend to break
-- Built a **multi-stream CNN-GNN module** to extract robust facial landmarks, paired with **five anatomy-aware descriptor families** in a hybrid geometry-appearance classifier
-- Achieved **95.8% accuracy** on FaceForensics++ and **92.3% mean cross-dataset accuracy** across FF++→FFHQ, FF++→CelebA, and cross-manipulation protocols
-- Outperformed a CNN baseline by **11.2 percentage points** and cut cross-dataset variance by **~78%**, lowering accuracy standard deviation to **2.1%** versus **9.4%** for CNN baselines
-- Reduced facial landmark symmetry error by **18.7%** over MediaPipe through physics-based geometric correction
+- Developed a **physics-informed deepfake detection framework** using anatomical facial geometry and a hybrid **CNN-GNN** architecture
+- Achieved **95.8% accuracy** on FaceForensics++ and **92.3% cross-dataset accuracy**
+- Outperformed CNN baselines by **11.2 percentage points** while reducing cross-dataset variance by **~78%**
+- Improved landmark localization by reducing facial symmetry error by **18.7%** over MediaPipe through physics-based geometric correction
 
 📄 Read the Full Paper Here : [Link](https://doi.org/10.2991/978-94-6239-707-1_21)
 
