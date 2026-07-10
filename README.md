@@ -186,13 +186,11 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 ![Docker](https://img.shields.io/badge/AsyncIO-3776AB?style=flat)
 
 ### ✨ Key Features
-- 🔀 **Async parallel processing** — worker pool handles up to 5 concurrent jobs per worker via `asyncio.Semaphore`
-- 🗄️ **Durable MongoDB job queue** with atomic `find_one_and_update` claims, so no two workers ever grab the same job
-- 🧠 **Semantic caching** using `all-MiniLM-L6-v2` embeddings + cosine similarity, skipping redundant LLM calls on near-duplicate prompts
-- 🚦 **Token bucket rate limiting** (300 req/min) — global at the worker, session-based at the API layer, with graceful backoff instead of dropped requests
-- ♻️ **Crash recovery** — automatically detects and requeues jobs stuck in "processing" for over 5 minutes, retried up to 2 times before failing
-- 📶 **Priority queue** — high-priority jobs bypass the cache and jump straight to the front of the line
-- 🔌 **REST API** for submitting, polling, retrieving, and cancelling prompt jobs, plus a system health endpoint
+- ⚡ **Async parallel processing** — worker pool handles **up to 5 concurrent jobs per worker** via `asyncio.Semaphore`
+- 🗄️ **MongoDB-backed job queue** with atomic task claims and **automatic crash recovery** (requeues jobs after **5 minutes**, retries up to **2 times**)
+- 🧠 **Semantic caching** using **all-MiniLM-L6-v2** embeddings to eliminate redundant LLM API calls
+- 🚦 **Token bucket rate limiting** supporting **300 req/min** for reliable high-throughput processing
+- 🔌 **REST API** for job submission, status tracking, cancellation, and system health monitoring
 
 🔗 **Repository:** https://github.com/soumitra1312/PromptForge
 
@@ -215,14 +213,12 @@ Currently seeking **Software Engineering Internship opportunities (Backend & AI 
 ![React Navigation](https://img.shields.io/badge/React_Navigation-CA4245?style=flat)
 
 ### ✨ Key Features
-
-- 💬 **Offline-first messaging** with **AsyncStorage** caching, versioned entries, and **7-day TTL** expiration
-- 📦 **Offline message queue** that stores outgoing messages locally and automatically synchronizes them when the device reconnects
-- 🪟 **Persistent floating chat widget** that shares state with the main chat window, enabling replies from any screen without losing conversation history
-- 🔍 **Modern chat interface** with search, unread badges, typing indicators, read receipts, and online status
-- 📞 **Voice & video call support** featuring call history, full-screen call overlay, mute, speaker, and timer controls
-- 🎨 **Highly customizable UI** with multiple chat wallpapers, profile management, backend-driven theme configuration, and animated loading components
-- ⚡ **Responsive offline-first architecture** delivering a seamless messaging experience even with intermittent network connectivity
+- 💬 **Offline-first messaging** with AsyncStorage caching and automatic synchronization
+- 🪟 **Persistent floating chat widget** for replying from any screen
+- 📦 **Offline message queue** with automatic delivery after reconnection
+- 📞 **Voice & video calling** with call history and in-call controls
+- 🎨 **Customizable interface** featuring chat wallpapers, profile management, and backend-driven themes
+- 🔍 **Modern chat experience** with search, typing indicators, read receipts, and online status
 
 🔗 **Repository:** https://github.com/Soumitra1312/Smart-Chat-App
 
